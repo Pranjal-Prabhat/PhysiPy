@@ -11,7 +11,7 @@ setup(
     url='https://github.com/yourusername/physics',
     packages=find_packages(),
     install_requires=[
-        'sympy',
+        'sympy'
 
     ],
     classifiers=[
