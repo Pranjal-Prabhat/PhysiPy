@@ -68,7 +68,7 @@ def acceleration( s=None , force =None , mass =1 , initial=None , final=None , t
         pass
 
 
-def collision_momentum(initial_of_A=None, initial_of_B=None, final_of_A=None, final_of_B=None, mass_of_A=None, mass_of_B=None):
+def collison_momentum(initial_of_A=None, initial_of_B=None, final_of_A=None, final_of_B=None, mass_of_A=None, mass_of_B=None):
     """
     Calculate unknown initial or final velocities or masses in a collision scenario.
 
