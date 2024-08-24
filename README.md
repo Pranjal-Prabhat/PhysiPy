@@ -24,17 +24,6 @@ The library is organized into the following modules:
 - **distance_covered_horizontal**: Calculate the horizontal distance covered at a given time.
 - **distance_covered_horizontal_max**: Calculate the maximum horizontal distance covered.
 
-### Projectile
-
-- **h_max**: Calculate the highest vertical height reached.
-- **time_of_flight**: Calculate the total time the projectile will be in the air.
-- **time_of_ascent**: Calculate the time taken to reach the peak.
-- **time_of_descent**: Calculate the time taken to descend from the peak.
-- **velocity_vertical**: Calculate the vertical velocity at a given time.
-- **distance_covered_vertical**: Calculate the vertical distance covered at a given time.
-- **distance_covered_horizontal**: Calculate the horizontal distance covered at a given time.
-- **distance_covered_horizontal_max**: Calculate the maximum horizontal distance covered.
-
 ### Force
 
 - **gravitational**: Calculate the gravitational force.
