@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='physics',
+    name='PhysiPy',
     version='0.1.0',
     description='A library to make calculations in physics easy',
     long_description=open('README.md').read(),
