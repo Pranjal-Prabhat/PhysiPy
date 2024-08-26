@@ -5,8 +5,9 @@ Welcome to the Physics Library! This library provides easy access to various phy
 # Usage
 
 After downloading this repository open cmd as administator and run these to install PysiPy:-
+```sh
 cd %UserProfile%\Downloads
-pip install PhysiPy-main.zip 
+pip install PhysiPy-main.zip
 
 Note:- This code only open cmd in downloads folder(default folder where files are downloaded using browser) and installs the library.
 Note:- If this not work then either the library is not downloaded as zip in downloads folder or cmd has been not opened as administator
