@@ -11,7 +11,8 @@ pip install PhysiPy-main.zip
 ```
 
 Note:- This code only open cmd in downloads folder(default folder where files are downloaded using browser) and installs the library.
-Note:- If this not work then either the library is not downloaded as zip in downloads folder or cmd has been not opened as administator
+
+Note:- If this not work then either the library is not downloaded as zip in downloads folder or cmd has been not opened as administator.
 
 ## Library Structure
 
